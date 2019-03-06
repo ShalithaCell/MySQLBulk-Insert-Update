@@ -1,0 +1,12 @@
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\bin\Debug\MySQL Bulk IU Test.exe.config
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\bin\Debug\MySQL Bulk IU Test.exe
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\bin\Debug\MySQL Bulk IU Test.pdb
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\bin\Debug\MySql.Data.dll
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\bin\Debug\MySQLBulkIU.dll
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\bin\Debug\MySQLBulkIU.pdb
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\obj\Debug\MySQL Bulk IU Test.csprojResolveAssemblyReference.cache
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\obj\Debug\MySQL_Bulk_IU_Test.Form1.resources
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\obj\Debug\MySQL_Bulk_IU_Test.Properties.Resources.resources
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\obj\Debug\MySQL Bulk IU Test.csproj.GenerateResource.Cache
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\obj\Debug\MySQL Bulk IU Test.exe
+c:\users\shali\documents\visual studio 2015\Projects\MySQL Bulk IU Test\MySQL Bulk IU Test\obj\Debug\MySQL Bulk IU Test.pdb

@@ -1,0 +1,5 @@
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\bin\Debug\MySQLBulkIU.dll
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\bin\Debug\MySQLBulkIU.pdb
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\bin\Debug\MySql.Data.dll
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\obj\Debug\MySQLBulkIU.dll
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\obj\Debug\MySQLBulkIU.pdb

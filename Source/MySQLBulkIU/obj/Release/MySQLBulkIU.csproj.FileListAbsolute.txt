@@ -1,0 +1,6 @@
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\bin\Release\MySQLBulkIU.dll
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\bin\Release\MySQLBulkIU.pdb
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\bin\Release\MySql.Data.dll
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\obj\Release\MySQLBulkIU.dll
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\obj\Release\MySQLBulkIU.pdb
+C:\Users\shali\documents\visual studio 2015\Projects\MySQLBulkIU\MySQLBulkIU\obj\Release\MySQLBulkIU.csprojResolveAssemblyReference.cache
