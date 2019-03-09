@@ -70,7 +70,7 @@ if (result)
              * ConnectionString= MySQL connection string
              * */
 
-bool result = MySQLBulkIU.BulkUpdate.UpdateBulkToMySQL(table, "test_bulk", "Name", "ID", connectionString);
+bool result = BulkUpdate.UpdateBulkToMySQL(table, "test_bulk", "Name", "ID", connectionString);
 
 ```
 
