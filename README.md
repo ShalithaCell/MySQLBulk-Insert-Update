@@ -9,7 +9,7 @@ The purpose of this library is for performing Bulk Inserts and Updates without m
 
 # Usage
 
-Generating Data table
+### Generating Data table
 ```C#
 DataTable table = new DataTable();
 table.Columns.Add("ID");
@@ -20,18 +20,20 @@ for(int i = 0; i < 100; i++)
 }
 ```
 
-Import lib
+### Import lib
 
 ```C#
 using MySQLBulkIU;
 ```
 
-Create connection string
+### Create connection string
+
 ```C#
 string connectionString = "Server=localhost;Database=test;Uid=root;Pwd=1234;";
 ```
 
-Bulk Insert
+### Bulk Insert
+
 ```C#
 
 //BulkToMySQL(DataTable dt, string tableName, string ConnectionString)
@@ -48,7 +50,7 @@ if (result)
    MessageBox.Show("Data Insert Successfully");
 ```
 
-Bulk Update
+### Bulk Update
 
 ```C#
 //UpdateBulkToMySQL(DataTable dt, string tableName, string valueColumn, string conditionColumn, string ConnectionString)
@@ -65,6 +67,13 @@ bool result = MySQLBulkIU.BulkUpdate.UpdateBulkToMySQL(table, "test_bulk", "Name
 
 ```
 
-#Building
+# Contribute
 
-[GitHub](git clone https://github.com/ghost1face/EntityFramework.BulkInsert.git)
+The best way to contribute is by spreading the word about the library:
+    * Blog it
+    * Comment it
+    * Fork it
+    * Star it
+    * Share it
+
+A HUGE THANKS for your help.
