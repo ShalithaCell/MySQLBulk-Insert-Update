@@ -2,6 +2,8 @@
 Fast way to insert and update a very large list of rows in My SQL using C#
 
 Problem is that large list of data are insert and update operations in My SQL are very slow if you use SqlCommand in the one by one per data.
+
+
 ---
 
 # Purpose
@@ -24,6 +26,8 @@ for(int i = 0; i < 100; i++)
 ```
 
 ### Import lib
+
+Add Reference to **MySQLBulkIU.dll** file
 
 ```C#
 using MySQLBulkIU;
@@ -72,6 +76,12 @@ bool result = MySQLBulkIU.BulkUpdate.UpdateBulkToMySQL(table, "test_bulk", "Name
 
 ---
 
+# Dependencies
+
+* MySql.Data.dll
+
+---
+
 # Contribute
 
 The best way to contribute is by spreading the word about the library:
@@ -82,4 +92,4 @@ The best way to contribute is by spreading the word about the library:
 * Star it
 * Share it
 
-A HUGE THANKS for your help.
+A **HUGE THANKS** for your help.
